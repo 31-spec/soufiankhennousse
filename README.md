@@ -41,4 +41,4 @@ Small tools for:
 
 ## 📬 Connect
 
-If you want to discuss cloud engineering, debugging, or automation, feel free to reach out or connect on LinkedIn.
+If you want to discuss cloud engineering, debugging, or automation, feel free to reach out or connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/soufian-khennousse)
